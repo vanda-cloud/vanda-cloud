@@ -21,9 +21,16 @@
 - [x] 📫 How to reach me: [Facebook](https://web.facebook.com/lovelysweatboy), [LinkedIn](https://www.linkedin.com/in/ronvanda)
 - [x] ⚡ Learn more about me from my [official page](https://www.feel2learn.com/)
 
-## Stats from my work
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanda-cloud&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="vanda-cloud's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanda-cloud&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+## Stats from my public work
+<div align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanda-cloud&theme=buefy&hide_border=false" alt="Vanda" /> 
+</div><br/>
+<div align="left">
+  
+  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanda-cloud&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="vanda-cloud's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanda-cloud&layout=compact&theme=buefy&hide_border=true" /> |
+  | ------------- | ------------- |
+  
+</div>
 
 ## Languages and tools
 <code><img height="20" src="https://avatars.githubusercontent.com/u/14101776?s=20&v=4" alt="Flutter"></code>
