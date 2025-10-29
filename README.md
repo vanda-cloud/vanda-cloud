@@ -41,9 +41,9 @@
   </svg>
 </p> -->
 
-<img src="https://raw.githubusercontent.com/vanda-jtrb/vanda-jtrb/main/assets/profile-name.svg" alt="Ron Vanda" /><br/>
+<img src="https://raw.githubusercontent.com/vanda-cloud/vanda-cloud/main/assets/profile-name.svg" alt="Ron Vanda" /><br/>
 <!-- Profile View -->
-<img src="https://komarev.com/ghpvc/?username=vanda-jtrb&style=flat&color=brightgreen" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=vanda-cloud&style=flat&color=brightgreen" alt="Profile Views" />
 
 
 <h1></h1>
@@ -156,18 +156,18 @@ Hi, I'm **Vanda**, a **Full Stack Development Guy** for you with a passion for *
 
 ### 🤖 Stats from my public work
 <div align="left">
-  <img align="center" src="https://streak-stats.demolab.com?user=vanda-jtrb&theme=tokyonight&hide_border=false" alt="Vanda" />
+  <img align="center" src="https://streak-stats.demolab.com?user=vanda-cloud&theme=tokyonight&hide_border=false" alt="Vanda" />
 </div><br/>
 <div align="left">
   
-  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanda-jtrb&show_icons=true&include_all_commits=false&theme=tokyonight&hide_border=true" alt="vanda-jtrb's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanda-jtrb&layout=compact&theme=tokyonight&hide_border=true" /> |
+  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanda-cloud&show_icons=true&include_all_commits=false&theme=tokyonight&hide_border=true" alt="vanda-cloud's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanda-cloud&layout=compact&theme=tokyonight&hide_border=true" /> |
   | ------------- | ------------- |
   
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanda-jtrb/vanda-jtrb/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanda-jtrb/vanda-jtrb/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vanda-jtrb/vanda-jtrb/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanda-cloud/vanda-cloud/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanda-cloud/vanda-cloud/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vanda-cloud/vanda-cloud/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!-- Featured Projects -->
