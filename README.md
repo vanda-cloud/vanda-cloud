@@ -4,7 +4,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&weight=500&pause=1000&center=true&vCenter=true&width=550&lines=WELCOME+TO+MY+WONDERFUL+AND+AMAZING...;OFFICIAL+PORTFOLIO)](#)
 
 <!-- Profile Photo -->
-<img src="./vanda-profile.png" width="300px" alt="Digital Card Backoffice" style="border: 0px solid #000; border-radius: 50px;"/>
+<img src="./vanda-profile.png" width="300px" alt="Profile Photo" style="border: 0px solid #000; border-radius: 50px;"/>
 
 <!-- Name -->
 <!-- Gradient -->
