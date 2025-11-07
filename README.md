@@ -185,6 +185,65 @@ Hi, I'm **Vanda**, a **Full Stack Development Guy** for you with a passion for *
 - Real Estate Management System
 - More...
 
+```mermaid
+graph TD
+  You((Vanda 🚀))
+
+  subgraph Frontend
+    A[Next.js]
+    B[Flutter]
+    C[TailwindCSS]
+    D[Framer Motion]
+  end
+
+  subgraph Backend
+    E[NestJS]
+    F[ASP.NET Core]
+    G[GraphQL]
+    H[REST API]
+  end
+
+  subgraph Database
+    I[(PostgreSQL)]
+    J[Prisma ORM]
+  end
+
+  subgraph DevOps
+    K[Docker]
+    L[AWS ECS]
+    M[GitHub Container Registry]
+    N[CI/CD Pipelines]
+  end
+
+  subgraph Mobile Infra
+    O[AppsFlyer Deep Linking]
+    P[AutoRoute]
+  end
+
+  subgraph Tools
+    Q[Monorepo]
+    R[Git & GitHub]
+    S[Figma]
+    T[Postman]
+  end
+
+  You --> Frontend
+  You --> Backend
+  You --> Database
+  You --> DevOps
+  You --> Mobile Infra
+  You --> Tools
+
+  A --> G
+  B --> O
+  E --> I
+  E --> J
+  F --> H
+  K --> L
+  L --> M
+  J --> I
+
+```
 
 <!-- Contact -->
 <a name="Contact" style="text-decoration: none;"></a>
