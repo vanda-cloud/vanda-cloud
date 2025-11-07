@@ -150,7 +150,7 @@
 
 Hi, I'm **Vanda**, a **Full Stack Development Guy** for you with a passion for **Mobile App**, **Web App**, **Desktop App**, **Server**, and **Cloud** deployment with **CI/CD** and **DevOps**.
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="animated hello" /> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="500" align="top" alt="dev quote" />
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="animated hello" /> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="400" align="top" alt="dev quote" />
 
 ### 🤖 Stats from my public work
 <div align="left">
