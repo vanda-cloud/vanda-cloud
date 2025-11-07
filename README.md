@@ -49,9 +49,7 @@
 <!-- Profile View -->
 <img src="https://komarev.com/ghpvc/?username=vanda-cloud&style=flat&color=brightgreen" alt="Profile Views" />
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- <h1></h1> -->
+<h1></h1>
 
 <!-- Platform -->
 <img src="https://img.shields.io/badge/Platform-gray?style=flat-round&logo=google-cloud&logoColor=white" alt="Platform" />
