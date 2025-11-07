@@ -137,7 +137,7 @@
 </div>
 
 ### 🎧 Spotify
-<img src="https://spotify-github-profile.kittinanx.com/api/spotify?uid=31i5h767kvl3a3bacxc3apa7e4aq&cover_image=true" />
+![Spotify Now Playing](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
 
 
 <!-- Quick Access -->
